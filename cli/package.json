@@ -67,7 +67,7 @@
     "findup-sync": "^2.0.0",
     "fuzzysearch": "^1.0.3",
     "graphql": "^0.13.2",
-    "hosted-git-info": "^2.7.1",
+    "hosted-git-info": "^3.0.8",
     "import-local": "^1.0.0",
     "in-publish": "^2.0.0",
     "inquirer": "^6.0.0",
